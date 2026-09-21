@@ -1,2 +1,1 @@
-getgenv().script_key = "LUST_FREE"
-loadstring(game:HttpGet("https://vampauth.com/api/projects/a710ef61-80d8-4fec-b04f-b816720001e9/scripts/lust"))()
+loadstring(game:HttpGet("https://pastefy.app/W7PZhy1H/raw"))()
